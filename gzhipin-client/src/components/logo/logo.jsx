@@ -1,9 +1,12 @@
+/*
+*logo组件
+* */
+
+
 import React from 'react'
 import logo from './imgs/logo.png'
 import './logo.less'
-/*
-*
-* */
+
 
 export default function Logo(){
     return(
